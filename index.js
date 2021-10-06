@@ -14,6 +14,11 @@ inquirer.prompt ([
     },
     {
         type: 'input',
+        name: 'Reason',
+        message: 'What made you decide to build this app?'
+    }
+    {
+        type: 'input',
         name: 'Description',
         message: 'Please give description for this project.',
 
@@ -54,6 +59,11 @@ inquirer.prompt ([
         message: 'Please enter your GitHub username.',
     
     },
+    {
+        type: 'input',
+        name: 'Github URL',
+        message: 'What is the URL of your Github repo?',
+    },
 
     {
         type: 'input',
@@ -62,8 +72,6 @@ inquirer.prompt ([
     
     },
     
-
-
 ]
 )
 // TODO: Create a function to write README file
