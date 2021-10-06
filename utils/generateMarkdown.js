@@ -20,7 +20,9 @@ function renderLicenseLink(license) {
   else if (license === 'MIT') {
     `https://mit-license.org`
   } 
-  else if ()
+  else if (license === 'GPL 3.0'){
+    `http://www.gnu.org/licenses/`
+  }
   
 
 
