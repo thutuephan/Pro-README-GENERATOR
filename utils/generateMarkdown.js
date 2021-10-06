@@ -58,6 +58,7 @@ function generateMarkdown(answers) {
 
   ## Credits
   ${answers.Credits}
+  [Markdown Syntax Cheat Sheet](https://www.youtube.com/watch?v=bpdvNwvEeSE&t=202s "tutorial")
 
   ## Tests
   ${answers.Tests}
