@@ -16,7 +16,7 @@ inquirer.prompt ([
         type: 'input',
         name: 'Reason',
         message: 'What made you decide to build this app?'
-    }
+    },
     {
         type: 'input',
         name: 'Description',
@@ -74,6 +74,14 @@ inquirer.prompt ([
     
 ]
 )
+.then ((answers) => {
+    const generateContent = generateReadmeG(answers);
+
+    fs.writeFile('README.nd', generateContent, (err) =>
+    err? console.log(err) : console.log('Successfully created a README file!')
+    );
+}
+);
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
 
