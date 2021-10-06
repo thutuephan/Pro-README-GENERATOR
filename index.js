@@ -39,8 +39,8 @@ function init() {
         },
         {
             type: 'input',
-            name: 'Contributing',
-            message: 'Please add contribution guidlines',
+            name: 'Credits',
+            message: 'Who would you like to give credits to in this project?',
         
         },
         {
@@ -50,7 +50,7 @@ function init() {
         
         },
         {
-            type: 'input',
+            type: 'list',
             name: 'License',
             message: 'Which license is used for your app?',
             choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3'],
@@ -92,6 +92,6 @@ init();
 
 
 
-//https://img.shields.io/badge/license-${license}-yellow.svg
+
 
 
