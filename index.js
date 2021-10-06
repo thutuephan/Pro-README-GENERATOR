@@ -21,6 +21,12 @@ function init() {
         },
         {
             type: 'input',
+            name: 'motivation',
+            message: 'What motivated your to build this app?',
+
+        },
+        {
+            type: 'input',
             name: 'Installation',
             message: 'How do you install your app?',
         
