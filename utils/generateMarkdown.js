@@ -46,24 +46,24 @@ function generateMarkdown(answers) {
   - [Description](#)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
+  - [Credits](#credits)
   - [Tests](#tests)
   - [License](#license)
 
   ## Installation
-  ${answers.installation}
+  ${answers.Installation}
 
   ## Usage
-  ${answers.usage}
+  ${answers.Usage}
 
-  ## Contributing
-  ${answers.contributing}
+  ## Credits
+  ${answers.Credits}
 
   ## Tests
-  ${answers.tests}
+  ${answers.Tests}
 
   ## License
-  ${answers.license}
+  ${answers.License}
 
   ## Questions
   For any additional information, find me at:
