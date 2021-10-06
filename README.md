@@ -1,34 +1,33 @@
-# Pro-README-GENERATOR
+# undefined
   > Keep smiling and working harder
   ## Description
-  
+  undefined
   <br>
-  I was motivated to build this app due to the benefits of it. It makes the process of creating an open source project on GitHub become easier so the project creator
+  I was motivated to build this app due to the benefits of it. It makes the process of creating an open source project creator can devote more time to working on the project.
   <br>
 
   ## Table of Contents
   - [Description](#)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
+  - [Credits](#credits)
   - [Tests](#tests)
   - [License](#license)
 
   ## Installation
-  undefined
+  I used the neccessary file packages: utils, package-lock.json, package.json, index.js; and the command-lines: `npm init -y` `npm install inquirer`
 
   ## Usage
-  undefined
+  The app will be used to quickly create a README file by using a command-line application to genereate one.
 
-  ## Contributing
-  undefined
+  ## Credits
+  THU PHAN 
 
   ## Tests
-  undefined
+  N/A
 
   ## License
-  undefined
----
+  Apache 2.0
 
   ## Questions
   For any additional information, find me at:
