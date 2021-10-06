@@ -64,7 +64,7 @@ function init() {
         },
         {
             type: 'input',
-            name: 'Github URL',
+            name: 'Github',
             message: 'What is the URL of your Github repo?',
         },
 
