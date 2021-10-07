@@ -328,9 +328,17 @@ END OF TERMS AND CONDITIONS
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
-  return `# ${answers.Title}
+  return `
+  
+  # ${answers.Title}
   
   > Keep smiling and working harder
+  ## Badge
+  ${renderLicenseBadge(answers.License)}
+  ${renderLicenseLink(answers.License)}
+  ${renderLicenseSection(answers.License)}
+  <br>
+
   ## Description
   ${answers.Description}
   <br>
@@ -359,10 +367,7 @@ function generateMarkdown(answers) {
 
   ## License
   ${answers.License}
-  ${renderLicenseBadge(answers.License)}
-  ${renderLicenseLink(answers.License)}
-  ${renderLicenseSection(answers.License)}
-
+  
 
   ## Questions
   For any additional information, find me at:
