@@ -1,8 +1,5 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-
-//const ListPrompt = require("inquirer/lib/prompts/list");
-// Can I do switch instead of if-else?// switch(asnwers.license)...?
 
 function renderLicenseBadge(license) {
   if (license){
@@ -11,9 +8,8 @@ function renderLicenseBadge(license) {
   
 } 
 
-
-// // TODO: Create a function that returns the license link
-// // If there is no license, return an empty string
+// Create a function that returns the license link
+// If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'Apache2.0') {
   return `http://www.apache.org/licenses/LICENSE-2.0`
@@ -28,9 +24,8 @@ function renderLicenseLink(license) {
   
 };
 
-
-// // TODO: Create a function that returns the license section of README
-// // If there is no license, return an empty string
+// Create a function that returns the license section of README
+// If there is no license, return an empty string
  function renderLicenseSection(license) {
    if (license === 'Apache2.0') {
   return `## License - This project is licensed under the ${license} license.
@@ -323,9 +318,8 @@ END OF TERMS AND CONDITIONS
      else ('');
    }
 
-   
 
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 function generateMarkdown(answers) {
   return `${renderLicenseBadge(answers.License)}
   
@@ -366,15 +360,23 @@ function generateMarkdown(answers) {
   
 
   ${renderLicenseSection(answers.License)}
-  
-  
 
   ## Questions
   For any additional information, find me at:
+  <br>
   GitHub: [@${answers.Repo}](https://github.com/${answers.Repo})
   <br>
   Email: [${answers.Email}](mailto:${answers.Email})
   
+
+  
+  ## Resources and Tutorials
+  * https://opensource.org/
+  * https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/smu-dal-fsf-pt-07-2021-u-c/-/tree/master/09-NodeJS/02-Homework
+  * https://www.npmjs.com/package/inquirer
+  * https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+  * https://www.markdownguide.org/cheat-sheet/
+  * https://shields.io/
 
   `;
 }
