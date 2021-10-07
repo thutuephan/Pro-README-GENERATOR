@@ -371,12 +371,12 @@ function generateMarkdown(answers) {
 
   
   ## Resources and Tutorials
-  * https://opensource.org/
-  * https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/smu-dal-fsf-pt-07-2021-u-c/-/tree/master/09-NodeJS/02-Homework
-  * https://www.npmjs.com/package/inquirer
-  * https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-  * https://www.markdownguide.org/cheat-sheet/
-  * https://shields.io/
+  * (https://opensource.org/)
+  * (https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/smu-dal-fsf-pt-07-2021-u-c/-/tree/master/09-NodeJS/02-Homework)
+  * (https://www.npmjs.com/package/inquirer)
+  * (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+  * (https://www.markdownguide.org/cheat-sheet/)
+  * (https://shields.io/)
 
   `;
 }
