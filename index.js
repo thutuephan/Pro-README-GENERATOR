@@ -80,7 +80,7 @@ function init() {
     .then ((answers) => {
         const generateContent = generateReadmeG(answers);
     // create a function to write README file
-        fs.writeFile('README.md', generateContent, (err) =>
+        fs.writeFile('sample/README.md', generateContent, (err) =>
         err? console.log(err) : console.log('Successfully created a README file!')
         );
     }

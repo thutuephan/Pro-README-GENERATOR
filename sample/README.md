@@ -1,13 +1,13 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-yellow.svg)
   
-  # Pro-README-GENERATOR
+  # adsfa
   
-  > Keep smiling and work harder
+  > Keep smiling and working harder
   
   ## Description
-  This application using Node.js allows a user to quickly and easily create a professional README for a new project from their input using the [Inquirer packages](https://www.npmjs.com/package/inquirer), answering the questions. The app will take the input given by the user and display information in the corresponding sections of the README file.
+  werqe
   <br>
-  I was motivated to build this app due to the benefits of it. It makes the process of creating an open source project on GitHub become easier so the project creator can devote more time to working on the project.
+  weqrew
   <br>
 
   ## Table of Contents
@@ -19,19 +19,16 @@
   - [License](#license)
 
   ## Installation
-  1. Create the file packages include `.gitignore` file `node_modules/`, `package-lock.json`, `package.json`. 
-  2. Run the command-lines: `npm init -y` 
-   `npm installer inquirer`
+  fawe
 
   ## Usage
-  The app will be used to quickly create a high-quality README file.
-  [Screenshot and walkthrough video here]
+  wqrwe
 
   ## Credits
-  THU PHAN \n Tutorial link: //www.youtube.com/watch?v=HUBNt18RFbo&t=614s
+  qer
   
   ## Tests
-  There's no test for this app yet.
+  fwe
 
   ## License
   MIT
@@ -51,14 +48,22 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
     
-  
-  
 
   ## Questions
   For any additional information, find me at:
-  GitHub: [@thutuephan](https://github.com/thutuephan)
   <br>
-  Email: [alicebe.phan@gmail.com](mailto:alicebe.phan@gmail.com)
+  GitHub: [@qewr](https://github.com/qewr)
+  <br>
+  Email: [afsd](mailto:afsd)
   
+
+  
+  ## Resources and Tutorials
+  * (https://opensource.org/)
+  * (https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/smu-dal-fsf-pt-07-2021-u-c/-/tree/master/09-NodeJS/02-Homework)
+  * (https://www.npmjs.com/package/inquirer)
+  * (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+  * (https://www.markdownguide.org/cheat-sheet/)
+  * (https://shields.io/)
 
   
