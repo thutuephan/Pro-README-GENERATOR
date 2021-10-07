@@ -53,7 +53,7 @@ function init() {
             type: 'list',
             name: 'License',
             message: 'Which license is used for your app?',
-            choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3'],
+            choices: ['MIT', 'Apache 2.0', 'GPL 3.0'],
         
         },
         {

@@ -1,9 +1,12 @@
 // // TODO: Create a function that returns a license badge based on which license is passed in
 // // If there is no license, return an empty string
+
+// const ListPrompt = require("inquirer/lib/prompts/list");
+
 // // Can I do switch instead of if-else?// switch(asnwers.license)...?
 // function renderLicenseBadge(license) {
 //   if (license){
-//   `![License Badge](https://img.shields.io/badge/license-${license}-yellow.svg)`
+//   `![License Badge](https://img.shields.io/badge/license-${License}-yellow.svg)`
 // } else ('');
 
 // };
@@ -20,24 +23,28 @@
 //   else if (license === 'MIT') {
 //     `https://mit-license.org`
 //   } 
-//   else  (license === 'GPL 3.0'){
+//   else if (license === 'GPL 3.0'){
 //     `http://www.gnu.org/licenses/`
-//   }
+//   } 
+//   else ('');
+  
 // };
 
 
-// // TODO: Create a function that returns the license section of README
-// // If there is no license, return an empty string
+
+
+// TODO: Create a function that returns the license section of README
+// If there is no license, return an empty string
 // function renderLicenseSection(license) {
 //   `## License - This project is licensed under the ${license} license.`
 // }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
-  return `# ${answers.title}
+  return `# ${answers.Title}
   > Keep smiling and working harder
   ## Description
-  ${answers.description}
+  ${answers.Description}
   <br>
   ${answers.motivation}
   <br>
@@ -58,8 +65,7 @@ function generateMarkdown(answers) {
 
   ## Credits
   ${answers.Credits}
-  [Markdown Syntax Cheat Sheet](https://www.youtube.com/watch?v=bpdvNwvEeSE&t=202s "tutorial")
-
+  
   ## Tests
   ${answers.Tests}
 
