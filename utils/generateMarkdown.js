@@ -6,39 +6,34 @@
 
 function renderLicenseBadge(license) {
   if (license){
-  `![License Badge](https://img.shields.io/badge/license-${license}-yellow.svg)`
+  return `![License Badge](https://img.shields.io/badge/license-${license}-yellow.svg)`
 } else ('');
   
-
 } 
-
-
 
 
 // // TODO: Create a function that returns the license link
 // // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'Apache 2.0') {
-  `http://www.apache.org/licenses/LICENSE-2.0`
+  return `http://www.apache.org/licenses/LICENSE-2.0`
   }
   else if (license === 'MIT') {
-    `https://mit-license.org`
+    return `https://mit-license.org`
   } 
   else if (license === 'GPL 3.0'){
-    `http://www.gnu.org/licenses/`
+    return `http://www.gnu.org/licenses/`
   } 
   else ('');
   
 };
 
 
-
-
 // // TODO: Create a function that returns the license section of README
 // // If there is no license, return an empty string
  function renderLicenseSection(license) {
    if (license === 'Apache 2.0') {
-  `## License - This project is licensed under the ${license} license.
+  return `## License - This project is licensed under the ${license} license.
   Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -110,7 +105,7 @@ END OF TERMS AND CONDITIONS
 
   `
    } else if (license === 'MIT') {
-    `## License - This project is licensed under the ${license} license.
+    return `## License - This project is licensed under the ${license} license.
     Copyright <YEAR> <COPYRIGHT HOLDER>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -334,10 +329,7 @@ END OF TERMS AND CONDITIONS
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
   return `# ${answers.Title}
-  ${renderLicenseBadge(answers.License)}
-  ${renderLicenseLink(answers.License)}
-  ${renderLicenseSection(answers.License)}
-
+  
   > Keep smiling and working harder
   ## Description
   ${answers.Description}
@@ -367,6 +359,10 @@ function generateMarkdown(answers) {
 
   ## License
   ${answers.License}
+  ${renderLicenseBadge(answers.License)}
+  ${renderLicenseLink(answers.License)}
+  ${renderLicenseSection(answers.License)}
+
 
   ## Questions
   For any additional information, find me at:
