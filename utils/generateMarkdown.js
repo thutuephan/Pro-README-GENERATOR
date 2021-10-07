@@ -15,13 +15,13 @@ function renderLicenseBadge(license) {
 // // TODO: Create a function that returns the license link
 // // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  if (license === 'Apache2.0') {
+  if (license === 'Apache-2.0') {
   return `http://www.apache.org/licenses/LICENSE-2.0`
   }
   else if (license === 'MIT') {
     return `https://mit-license.org`
   } 
-  else if (license === 'GPL3.0'){
+  else if (license === 'GPL-3.0'){
     return `http://www.gnu.org/licenses/`
   } 
   else ('');
@@ -32,7 +32,7 @@ function renderLicenseLink(license) {
 // // TODO: Create a function that returns the license section of README
 // // If there is no license, return an empty string
  function renderLicenseSection(license) {
-   if (license === 'Apache2.0') {
+   if (license === 'Apache-2.0') {
   return `## License - This project is licensed under the ${license} license.
   Apache License
   Version 2.0, January 2004
@@ -117,7 +117,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
     `
-   } else if (license === 'GPL3.0') {
+   } else if (license === 'GPL-3.0') {
      return
      `
      Preamble
