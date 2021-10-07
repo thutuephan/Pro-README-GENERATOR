@@ -92,6 +92,18 @@ init();
 
 
 
-
+// What motivated your to build this app? I was motivated to build this app due to the benefits of it. It ma
+// kes the process of creating an open source project on GitHub become easier so the project creator can devot
+// e more time to working on the project.
+// ? How do you install your app? 1. Download the file packages from starter materials: utils, package-lock.js
+// on, package.json, node_modules. 2. Run the command-lines: `npm init -y`, `npm install inquirer`.
+// ? How will your app be used? The app will be used to quickly create a high-quality README file .
+// ? Who would you like to give credits to in this project? 1. I am responsible for this project - THU PHAN. 2
+// Tutorial links:https://www.youtube.com/watch?v=HUBNt18RFbo&t=614s
+// ? What command do you use to test this app? There's no test for this app yet.
+// ? Which license is used for your app? Apache 2.0
+// ? Please enter your GitHub username. thutuephan
+// ? What is the URL of your Github repo? https://github.com/thutuephan/
+// ?
 
 
