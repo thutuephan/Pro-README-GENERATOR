@@ -1,29 +1,14 @@
 
+  ![License Badge](https://img.shields.io/badge/license-Apache 2.0-yellow.svg)
   
-  # awew
+  # ewr
   
   > Keep smiling and working harder
-  ## Badge
-  ![License Badge](https://img.shields.io/badge/license-MIT-yellow.svg)
-  https://mit-license.org
-  ## License - This project is licensed under the MIT license.
-    Copyright <YEAR> <COPYRIGHT HOLDER>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-    
-  <br>
-
+  
   ## Description
-  sfdawe
+  awef
   <br>
-  ewr
+  fweoriqewr
   <br>
 
   ## Table of Contents
@@ -35,26 +20,32 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   - [License](#license)
 
   ## Installation
-  oioids
+  qwreqe
 
   ## Usage
-  fwe
+  wtqjoew
 
   ## Credits
-  fadf
+  oipoi
   
   ## Tests
-  gjpo
+  wruoute
 
   ## License
-  MIT
+  Apache 2.0
+  <br>
+  http://www.apache.org/licenses/LICENSE-2.0
+  
+
+  undefined
+  
   
 
   ## Questions
   For any additional information, find me at:
-  GitHub: [@wer](https://github.com/wer)
+  GitHub: [@oriwep](https://github.com/oriwep)
   <br>
-  Email: [jo](mailto:jo)
-
+  Email: [jewif](mailto:jewif)
+  
 
   
