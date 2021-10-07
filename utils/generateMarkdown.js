@@ -118,9 +118,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     `
    } else if (license === 'GPL3.0') {
-     return
-     `
-     Preamble
+     return`Preamble
 
 The GNU General Public License is a free, copyleft license for software and other kinds of works.
 
