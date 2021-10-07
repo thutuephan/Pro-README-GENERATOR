@@ -1,9 +1,11 @@
-# Pro-README-GENERATOR
+# por
+  undefined
+
   > Keep smiling and working harder
   ## Description
-  This app allows a user to quickly and easily create a professional README for a new project from his/her input using the inquirer package, answering the questions. The app will take the input given by the user and display information in the corresponding sections of the README file.
+  i lkie how it ower
   <br>
-  undefined
+  for a convient pap
   <br>
 
   ## Table of Contents
@@ -15,25 +17,25 @@
   - [License](#license)
 
   ## Installation
-  1. Download the file packages from starter materials: utils, package-lock.json, package.json, node_modules. 2. Run the command-lines: `npm init -y`, `npm install inquirer`.
+  npm init -y npm install inquirer
 
   ## Usage
-  The app will be used to quickly create a high-quality README file .
+  created
 
   ## Credits
-  1. I am responsible for this project - THU PHAN. 2Tutorial links:https://www.youtube.com/watch?v=HUBNt18RFbo&t=614s
+  me
   
   ## Tests
-  There's no test for this app yet.
+  There aer not te
 
   ## License
-  Apache 2.0
+  MIT
 
   ## Questions
   For any additional information, find me at:
-  GitHub: [@thutuephan](https://github.com/thutuephan)
+  GitHub: [@thutuepha](https://github.com/thutuepha)
   <br>
   Email: [alicebe.phan@gmail.com](mailto:alicebe.phan@gmail.com)
 
 
-
+  
