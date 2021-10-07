@@ -1,13 +1,13 @@
-![License Badge](https://img.shields.io/badge/license-GPL-3.0-yellow.svg)
+![License Badge](https://img.shields.io/badge/license-GPL3.0-yellow.svg)
   
-  # adfwe
+  # weqr
   
   > Keep smiling and working harder
   
   ## Description
-  weroq
+  werqwe
   <br>
-  qrq
+  wre
   <br>
 
   ## Table of Contents
@@ -19,19 +19,19 @@
   - [License](#license)
 
   ## Installation
-  wqerw
+  egwer
 
   ## Usage
-  qwrq
+  eroirw
 
   ## Credits
-  qwr
+  werq
   
   ## Tests
-  gfg
+  qwre
 
   ## License
-  GPL-3.0
+  GPL3.0
   <br>
   http://www.gnu.org/licenses/
   
@@ -42,9 +42,9 @@
 
   ## Questions
   For any additional information, find me at:
-  GitHub: [@erwr](https://github.com/erwr)
+  GitHub: [@qreqewr](https://github.com/qreqewr)
   <br>
-  Email: [wrq](mailto:wrq)
+  Email: [qrewq](mailto:qrewq)
   
 
   
