@@ -25,16 +25,16 @@
    `npm installer inquirer`
 
   ## Usage
-  The app will be used to quickly create a high-quality README file.
-  [Walkthrough Video](https://drive.google.com/file/d/11wkH_8Y7FECmIox_peZDXuVqWN4nG7Oe/view?usp=sharing)
+  * The app will be used to quickly create a high-quality README file.
+  * [Walkthrough Video](https://drive.google.com/file/d/11wkH_8Y7FECmIox_peZDXuVqWN4nG7Oe/view?usp=sharing)
 
 
   ## Credits
   THU PHAN  
   <br>
-  GitHub Repo link: https://github.com/thutuephan/Pro-README-GENERATOR
+  * GitHub Repo link: https://github.com/thutuephan/Pro-README-GENERATOR
   <br>
-  Tutorial link: www.youtube.com/watch?v=HUBNt18RFbo&t=614s
+  * Tutorial link: www.youtube.com/watch?v=HUBNt18RFbo&t=614s
   
   ## Tests
   There's no test for this app yet.
@@ -54,18 +54,15 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-
-    
   
   
 
   ## Questions
   For any additional information, find me at:
   <br>
-  GitHub: [@thutuephan](https://github.com/thutuephan)
+  * GitHub: [@thutuephan](https://github.com/thutuephan)
   <br>
-  Email: [alicebe.phan@gmail.com](mailto:alicebe.phan@gmail.com)
+  * Email: [alicebe.phan@gmail.com](mailto:alicebe.phan@gmail.com)
 
   ## Resources and Tutorials
   * (https://opensource.org/)
