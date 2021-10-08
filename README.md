@@ -26,7 +26,8 @@
 
   ## Usage
   The app will be used to quickly create a high-quality README file.
-  [Screenshot and walkthrough video here]
+  [Walkthrough Video]('zoom_0.mp4')
+
 
   ## Credits
   THU PHAN  
