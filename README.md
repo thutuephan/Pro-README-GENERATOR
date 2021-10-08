@@ -20,7 +20,8 @@
 
   ## Installation
   1. Create the file packages include `.gitignore` file `node_modules/`, `package-lock.json`, `package.json`. 
-  2. Run the command-lines: `npm init -y` 
+  2. Run the command-lines: 
+  `npm init -y` 
    `npm installer inquirer`
 
   ## Usage
@@ -28,7 +29,8 @@
   [Screenshot and walkthrough video here]
 
   ## Credits
-  THU PHAN \n Tutorial link: //www.youtube.com/watch?v=HUBNt18RFbo&t=614s
+  THU PHAN  
+  Tutorial link: //www.youtube.com/watch?v=HUBNt18RFbo&t=614s
   
   ## Tests
   There's no test for this app yet.
@@ -59,6 +61,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   GitHub: [@thutuephan](https://github.com/thutuephan)
   <br>
   Email: [alicebe.phan@gmail.com](mailto:alicebe.phan@gmail.com)
+
+  ## Resources and Tutorials
+  * (https://opensource.org/)
+  * (https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/smu-dal-fsf-pt-07-2021-u-c/-/tree/master/09-NodeJS/02-Homework)
+  * (https://www.npmjs.com/package/inquirer)
+  * (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+  * (https://www.markdownguide.org/cheat-sheet/)
+  * (https://shields.io/)
+
   
 
   
