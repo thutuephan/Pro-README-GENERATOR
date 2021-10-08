@@ -33,7 +33,6 @@
   THU PHAN  
   <br>
   * GitHub Repo link: https://github.com/thutuephan/Pro-README-GENERATOR
-  <br>
   * Tutorial link: www.youtube.com/watch?v=HUBNt18RFbo&t=614s
   
   ## Tests
@@ -61,7 +60,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   For any additional information, find me at:
   <br>
   * GitHub: [@thutuephan](https://github.com/thutuephan)
-  <br>
   * Email: [alicebe.phan@gmail.com](mailto:alicebe.phan@gmail.com)
 
   ## Resources and Tutorials
